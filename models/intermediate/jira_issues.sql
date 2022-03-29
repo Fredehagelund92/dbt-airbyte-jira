@@ -24,4 +24,3 @@ with issues as (
 )
 
 select * from formatted
-;

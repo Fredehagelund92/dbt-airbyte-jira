@@ -15,4 +15,4 @@ with users as (
 )
 
 select * from formatted
-;
+

@@ -14,4 +14,3 @@ with projects as (
 )
 
 select * from formatted
-;

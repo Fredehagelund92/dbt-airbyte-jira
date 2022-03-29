@@ -14,4 +14,4 @@ with epics as (
 )
 
 select * from formatted
-;
+
